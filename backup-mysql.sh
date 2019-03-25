@@ -34,7 +34,7 @@ function @COPIADUMPSTORAGE () {
 @BACKUPMYSQL
 
 
-cho "Copiando os Dumps para o NAS ou HD EXTERNO"
+echo "Copiando os Dumps para o NAS ou HD EXTERNO"
 echo "Iniciando a copia"
 @COPIADUMPSTORAGE
 echo "Backup efetuado com sucesso!!!"
